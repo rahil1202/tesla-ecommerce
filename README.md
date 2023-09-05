@@ -2,7 +2,7 @@
 
 Welcome to the Tesla E-commerce website, a modern and interactive online store for Tesla enthusiasts. This project is built using TypeScript, Tailwind CSS, and Redux, providing a seamless shopping experience for users interested in Tesla products.
 
-## 🚀 Live Demo
+## Live Demo 🚀
 
 [**Live Demo**](https://tesla-ecommerce.netlify.app)
 
