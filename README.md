@@ -4,7 +4,7 @@ Welcome to the Tesla E-commerce website, a modern and interactive online store f
 
 ## Live Demo 🚀
 
-[**Live Demo**](https://tesla-ecommerce.netlify.app)
+[**Live Demo**](https://tesla-rahil1202.vercel.app/)
 
 ## Features 🌟
 
